@@ -56,7 +56,7 @@ module.exports = {
       disable: !isProd
     }),
     new HtmlWebpackPlugin({
-      title: 'Financial Forecaster',
+      title: 'React Seed Project w/Linting',
       // minify: {
       //   collapseWhitespace: true
       // },
